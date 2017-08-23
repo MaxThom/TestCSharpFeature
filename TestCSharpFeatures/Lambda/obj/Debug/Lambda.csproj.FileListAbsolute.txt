@@ -1,0 +1,6 @@
+C:\Users\mgthomassin\Documents\TestCSharpFeature\TestCSharpFeature\TestCSharpFeatures\Lambda\bin\Debug\Lambda.exe.config
+C:\Users\mgthomassin\Documents\TestCSharpFeature\TestCSharpFeature\TestCSharpFeatures\Lambda\bin\Debug\Lambda.exe
+C:\Users\mgthomassin\Documents\TestCSharpFeature\TestCSharpFeature\TestCSharpFeatures\Lambda\bin\Debug\Lambda.pdb
+C:\Users\mgthomassin\Documents\TestCSharpFeature\TestCSharpFeature\TestCSharpFeatures\Lambda\obj\Debug\Lambda.csprojResolveAssemblyReference.cache
+C:\Users\mgthomassin\Documents\TestCSharpFeature\TestCSharpFeature\TestCSharpFeatures\Lambda\obj\Debug\Lambda.exe
+C:\Users\mgthomassin\Documents\TestCSharpFeature\TestCSharpFeature\TestCSharpFeatures\Lambda\obj\Debug\Lambda.pdb
