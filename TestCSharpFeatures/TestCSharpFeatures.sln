@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomAttribute", "CustomAttribute\CustomAttribute.csproj", "{07C47792-E913-4C33-839D-B95B6D745D31}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventDelegate", "EventDelegate\EventDelegate.csproj", "{BE22E38D-D880-4E1A-8A89-D58C13A13C13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{07C47792-E913-4C33-839D-B95B6D745D31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C47792-E913-4C33-839D-B95B6D745D31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C47792-E913-4C33-839D-B95B6D745D31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C47792-E913-4C33-839D-B95B6D745D31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE22E38D-D880-4E1A-8A89-D58C13A13C13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE22E38D-D880-4E1A-8A89-D58C13A13C13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE22E38D-D880-4E1A-8A89-D58C13A13C13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE22E38D-D880-4E1A-8A89-D58C13A13C13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

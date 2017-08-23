@@ -1,0 +1,6 @@
+C:\Users\mgthomassin\Documents\TestCSharpFeature\TestCSharpFeature\TestCSharpFeatures\CustomAttribute\bin\Debug\CustomAttribute.exe.config
+C:\Users\mgthomassin\Documents\TestCSharpFeature\TestCSharpFeature\TestCSharpFeatures\CustomAttribute\bin\Debug\CustomAttribute.exe
+C:\Users\mgthomassin\Documents\TestCSharpFeature\TestCSharpFeature\TestCSharpFeatures\CustomAttribute\bin\Debug\CustomAttribute.pdb
+C:\Users\mgthomassin\Documents\TestCSharpFeature\TestCSharpFeature\TestCSharpFeatures\CustomAttribute\obj\Debug\CustomAttribute.csprojResolveAssemblyReference.cache
+C:\Users\mgthomassin\Documents\TestCSharpFeature\TestCSharpFeature\TestCSharpFeatures\CustomAttribute\obj\Debug\CustomAttribute.exe
+C:\Users\mgthomassin\Documents\TestCSharpFeature\TestCSharpFeature\TestCSharpFeatures\CustomAttribute\obj\Debug\CustomAttribute.pdb

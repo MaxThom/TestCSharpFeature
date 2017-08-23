@@ -1,0 +1,6 @@
+C:\Users\mgthomassin\Documents\TestCSharpFeature\TestCSharpFeature\TestCSharpFeatures\EventDelegate\bin\Debug\EventDelegate.exe.config
+C:\Users\mgthomassin\Documents\TestCSharpFeature\TestCSharpFeature\TestCSharpFeatures\EventDelegate\bin\Debug\EventDelegate.exe
+C:\Users\mgthomassin\Documents\TestCSharpFeature\TestCSharpFeature\TestCSharpFeatures\EventDelegate\bin\Debug\EventDelegate.pdb
+C:\Users\mgthomassin\Documents\TestCSharpFeature\TestCSharpFeature\TestCSharpFeatures\EventDelegate\obj\Debug\EventDelegate.csprojResolveAssemblyReference.cache
+C:\Users\mgthomassin\Documents\TestCSharpFeature\TestCSharpFeature\TestCSharpFeatures\EventDelegate\obj\Debug\EventDelegate.exe
+C:\Users\mgthomassin\Documents\TestCSharpFeature\TestCSharpFeature\TestCSharpFeatures\EventDelegate\obj\Debug\EventDelegate.pdb
