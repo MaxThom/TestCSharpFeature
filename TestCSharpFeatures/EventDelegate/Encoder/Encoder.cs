@@ -11,17 +11,16 @@ namespace EventDelegate.Encoder
 {
     public class Encoder : IEncoder
     {
+        // Solution 1
         // 1- Define a delegate
-        // 2- Define an event based that that deletage
+        // 2- Define an event based on that deletage
         // 3- Raise the event
 
-        // Solution 1
         // public delegate void VideoEncodedEventHandler(object source, VideoEventArgs args);
         // public event VideoEncodedEventHandler VideoEncoded;
 
         // Solution 2
         public event EventHandler<EventArgs<IFile>> OnEncoded;
-
         public event EventHandler<EventArgs<IFile>> OnEncoding;
 
         public void Encode(IFile fileToEncode)

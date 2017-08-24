@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventDelegate", "EventDeleg
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lambda", "Lambda\Lambda.csproj", "{1A70B131-7699-4DFA-B5FD-E7B6696D98FA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Threading", "Threading\Threading.csproj", "{8CC0087B-BFEB-48B6-9CC1-EF3F83F5FE50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{1A70B131-7699-4DFA-B5FD-E7B6696D98FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1A70B131-7699-4DFA-B5FD-E7B6696D98FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1A70B131-7699-4DFA-B5FD-E7B6696D98FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8CC0087B-BFEB-48B6-9CC1-EF3F83F5FE50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC0087B-BFEB-48B6-9CC1-EF3F83F5FE50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CC0087B-BFEB-48B6-9CC1-EF3F83F5FE50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CC0087B-BFEB-48B6-9CC1-EF3F83F5FE50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

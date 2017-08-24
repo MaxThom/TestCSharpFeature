@@ -1,0 +1,6 @@
+C:\Users\mgthomassin\Documents\TestCSharpFeature\TestCSharpFeature\TestCSharpFeatures\Threading\bin\Debug\Threading.exe.config
+C:\Users\mgthomassin\Documents\TestCSharpFeature\TestCSharpFeature\TestCSharpFeatures\Threading\bin\Debug\Threading.exe
+C:\Users\mgthomassin\Documents\TestCSharpFeature\TestCSharpFeature\TestCSharpFeatures\Threading\bin\Debug\Threading.pdb
+C:\Users\mgthomassin\Documents\TestCSharpFeature\TestCSharpFeature\TestCSharpFeatures\Threading\obj\Debug\Threading.csprojResolveAssemblyReference.cache
+C:\Users\mgthomassin\Documents\TestCSharpFeature\TestCSharpFeature\TestCSharpFeatures\Threading\obj\Debug\Threading.exe
+C:\Users\mgthomassin\Documents\TestCSharpFeature\TestCSharpFeature\TestCSharpFeatures\Threading\obj\Debug\Threading.pdb
